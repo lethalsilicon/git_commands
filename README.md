@@ -47,4 +47,4 @@ step 6 (Errors): Merge Conflicts. I googled. Found this link. http://stackoverfl
 		git commit -m "using ours (or) theirs" (With comment)
 
 
-Step 7: Submit a Pull Rgitquest. If you edited someone else's repo and want to add it to theirs. Look for the "Pull Request" button on your repo page.
+Step 7: Submit a Pull Request. If you edited someone else's repo and want to add it to theirs. Look for the "Pull Request" button on your repo page.
