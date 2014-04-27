@@ -37,6 +37,7 @@ Step 5: Push changes. After you've done any changes to the files.
 		git commit -m "Fcuking Comment"
 	To push files:
 		git push origin master
+	Then just write username/password for GitHub
 
 step 6 (Errors): Merge Conflicts. I googled. Found this link. http://stackoverflow.com/questions/161813/how-do-i-fix-merge-conflicts-in-git
 	Try this:
