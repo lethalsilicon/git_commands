@@ -32,7 +32,7 @@ Step 5: Push changes. After you've done any changes to the files.
 		git diff
 		Press "q" to exit diff!
 	If you want to add a file you changed:
-		gid add FILENAME.EXTENSION
+		git add FILENAME.EXTENSION
 	Don't forget to write a comment:
 		git commit -m "Fcuking Comment"
 	To push files:
