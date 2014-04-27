@@ -6,7 +6,9 @@ This file was to practice GitHub and Git Bash
 Here is how you use GitHub:
 
 Step 1: Create a Repo(Project) on Github. Just click "New Repository" and make sure to initialize a README.md file.
+
 Step 2(Optional): Fork a Repo. Go to someone else's repo and click "Fork Repository" button. This clones the repo to your Github account on GH's servers.
+
 Step 3(Startup): Install Git Bash (Mac already has Terminal).
 	To check Git version #:
 		git --version
@@ -22,6 +24,7 @@ Step 4: Clone a Repo. We are copying the project from Github's servers on to our
 		git remote add upstream https://github.com/diy/open-sourcerer.git
 	Make sure you have latest updates:
 		git pull upstream master
+		
 Step 5: Push changes. After you've done any changes to the files.
 	You can check status of the repo:
 		git status
